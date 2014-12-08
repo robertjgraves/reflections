@@ -24,8 +24,16 @@ organized? How would branches help?
 
 How do the diagrams help you visualize the branch structure?
 
+	Diagrams help you visualize the branch structure by provide a way to list out what's happened where along the repository. 
+
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
 
+	The result of merging two branches together is that the file changes are incorporated into the changes on the branched being merged to. 
+
+	We represent it in the diagram the way we do to show when the paths diverged and when they came back together.
+
 What are the pros and cons of Gitâ€™s automatic merging vs. always doing merges
 manually?
+
+	If the automatic merging works and doesn't have any conflicts, it can merge two branches together quickly. Merging manually could require a line-by-line comparison that could take a lot time to complete depending on the size of the file(s). 
