@@ -11,11 +11,16 @@ What value do you think it offers?
 
 	It lets the developer add only files that are relevant to the repository or break up the files into logical commits.
 
-How can you use the staging area to make sure you have one commit per logical
-change?
+How can you use the staging area to make sure you have one commit per logical change?
+
+	You can use the staging area to make sure you have only one logical commit per change by adding files as appropriate rather than adding all files in one shot. 
 
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
+
+	Some situations when branches would be helpful in keeping your history organized are when you want to try a new experimental function. Perhaps you're porting to another language or another operating system? 
+
+	You could work on different these branches without impacting your main working branch. 
 
 How do the diagrams help you visualize the branch structure?
 
