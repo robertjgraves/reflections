@@ -26,7 +26,7 @@ stored locally?
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
 
-    Fill in your answer here
+    A lot of collaboration today is done using SharePoint, but that is more for Excel and Word files. Not so much on the application development. Github's pull request definitely would help make collaboration easier. 
 
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
