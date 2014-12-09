@@ -31,4 +31,6 @@ and what would be harder?
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
 
-    Fill in your answer here
+    You would want to make changes in a separate branch rather than directly in master when you want to preserve the master branch. Perhaps you're working on a new feature and aren't sure if it will work or not?
+
+    It's probably easier to have just one branch, but branches can keep good seperation allow multiple people to work on multiple things and then merge the good stuff when ready. 
